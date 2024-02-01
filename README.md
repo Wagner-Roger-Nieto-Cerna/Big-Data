@@ -13,7 +13,7 @@ Requisitos
 # Objetivo:
 
 
-En este ejercicio, practicarás el análisis de datos sobre un conjunto de datos abiertos procedentes de Airbnb. Algunas de las tareas incluyen:
+En este proyecto, se realiza el análisis de datos sobre un conjunto de datos abiertos procedentes de Airbnb. Algunas de las tareas incluyen:
 
 - limpieza de datos,
 - transformación de datos y
@@ -64,7 +64,6 @@ El conjunto de datos utilizado en este proyecto consiste en información de Airb
 25. **house_rules**. Reglas de la casa.
 26. **license** = Número de licencia/permiso/registro.
 
-# Las cinco tareas pricipales de un analista de datos
 
 ## Tarea 1: Carga de datos 
 
